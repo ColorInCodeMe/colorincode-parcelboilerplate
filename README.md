@@ -152,7 +152,14 @@ The following image formats are supported, both as input and as output via the a
 
 ## Changelog and updates 🔔
 
+### **Version 1.0.4**
+> minor fixes
+> dependency and node updates
+> added support for post html and post css processing
+
 ### **Version 1.0.3** V1.0.3 08-16-2023 🔔
+
+
 > added support for @use and @forward for SCSS partials
 > package.json , index and scss files have been updated to reflect this support. on existing project folders, be sure to update package json, run npm update/i again
 
