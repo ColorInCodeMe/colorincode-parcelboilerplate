@@ -151,6 +151,11 @@ The following image formats are supported, both as input and as output via the a
 
 
 ## Changelog and updates 🔔
+### **Version 1.0.5** 02-11-2024
+> update package json to support partials
+> added html template partials, update partial for globals (pure html)
+> re structuring fixes for better readability of partials. 
+
 
 ### **Version 1.0.4**
 > minor fixes
