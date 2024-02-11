@@ -62,6 +62,7 @@ resolve this.
 ~~~
 |_dist 
 |_src
+    |_partials (if using)
     |_scss
     |_ts
     index.html
