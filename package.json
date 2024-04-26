@@ -54,7 +54,7 @@
         "@types/node": "^20.10.5",
         "@types/reveal.js": "^4.4.8",
         "assert": "^2.1.0",
-        "autoprefixer": "^10.4.17",
+        "autoprefixer": "^10.4.19",
         "parcel": "latest",
         "parcel-transformer-bypass": "^1.0.0",
         "parcel-transformer-ejs": "^1.0.1",
