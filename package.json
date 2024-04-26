@@ -76,7 +76,7 @@
     },
     "dependencies": {
         "@typeform/embed": "^4.0.0",
-        "autoprefixer": "^10.4.17",
+        "autoprefixer": "^10.4.19",
         "debounce": "^2.0.0",
         "glob": "^10.3.10",
         "gsap": "^3.12.4",
